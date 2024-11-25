@@ -1,7 +1,5 @@
-/* Import the font */
 @import url('https://fonts.googleapis.com/css2?family=Glitch+Goblin&display=swap');
 
-/* Animation Styles */
 @keyframes float {
   0%,
   100% {

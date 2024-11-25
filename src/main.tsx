@@ -6,7 +6,6 @@ import App from './App.tsx'
 // biome-ignore lint/style/noNonNullAssertion: <explanation>
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    {/* biome-ignore lint/correctness/noChildrenProp: <explanation> */}
-    <App children={undefined} />
+    <App/>
   </StrictMode>,
 )
