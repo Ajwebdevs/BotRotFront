@@ -158,7 +158,7 @@ function Home() {
         {/* Main Content */}
         <div className="relative flex flex-col items-center justify-center min-h-screen bg-transparent">
           {/* Header */}
-          <TypographyH1 className="text-center text-white z-10 font-goofy mb-4">
+          <TypographyH1 className="text-center text-white z-10  mb-4">
             BotRot 🤖
           </TypographyH1>
           {/* Description */}
